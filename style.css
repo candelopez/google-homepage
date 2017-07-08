@@ -1,0 +1,116 @@
+.navegador{
+	width: 350px;
+	padding-top: 20px;
+	position: absolute;
+	right: 10px;
+
+}
+
+.navegador p{
+	display: inline-block;
+	padding: 0px 10px;
+}
+
+nav img{
+	height: 16px;
+}
+
+nav button{
+	height: 34px;
+    width: 120px;
+    border: 0px;
+    background-color: #4486f9;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 3px;
+}
+.Google{
+	position: relative;
+}
+
+.Google img{
+	margin: 40px auto;
+	height: 100px;
+	display: block;
+}
+
+#Colombia{
+	position: absolute;
+	right: 100px;
+	top: 80px;
+	font-size: 20px;
+	color: #4285f4;
+}
+
+#contenedor{
+	width: 530px;
+	margin: 0px auto;
+	padding-top: 180px;
+}
+
+#input{
+	margin: 20px auto;
+    display: block;
+    width: 90%;
+    height: 40px;
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    box-shadow: 0px 1px 1px #afafaf;
+}
+
+.botones{
+	position: relative;
+	margin: 0px auto;
+	height: 30px;
+	width: 347px;
+
+}
+
+.botones button{
+	position: absolute;
+	margin: 10px;
+	height: 40px;
+	width: 160px;
+	border: none;
+	background-color: #f4f4f4;
+	font-size: 14px;
+	font-weight: 600;
+	color: #757575;
+}
+
+.boton1{
+	left: 0px;
+}
+
+.boton2{
+	right: 0px;
+}
+
+footer{
+	position: absolute;
+    bottom: 0px;
+    width: 100%;
+    padding: 12px 0px;
+    background-color: #f2f2f2;
+    height: 20px;
+    border-top: 1px solid #e4e4e4;
+
+}
+
+footer *{
+	display: inline-block;
+    padding: 0px 13px;
+    color: #666;
+    font-size: medium;
+}
+
+.footizq{
+	position: absolute;
+	left: 10px;
+}
+
+.footder{
+	position: absolute;
+	right: 10px;
+}
